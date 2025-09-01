@@ -12,7 +12,7 @@ A comprehensive fitness training application designed to help users create perso
 
 ## 🚀 Live Demo
 
-Experience FitForge in action: [https://fitforge-seven.vercel.app/](https://fitforge-seven.vercel.app/)
+Experience FitForge in action: [FitForge](https://fitforge-seven.vercel.app/)
 
 ## 📷 Screenshots
 
