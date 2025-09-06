@@ -14,7 +14,7 @@ A comprehensive fitness training application designed to help users create perso
 
 Experience FitForge in action: [FitForge](https://fitforge-seven.vercel.app/)
 
-## 📷 Screenshots
+## 📷 Snapshots
 
 <img width="1898" height="857" alt="FitForge Homepage" src="https://github.com/user-attachments/assets/3d2236f3-cfb9-46f2-88fe-db9e742362fa" />
 
